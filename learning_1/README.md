@@ -19,3 +19,4 @@ rand_list.c can be compiled via the included Makefile using the commands
 To execute the produced executable file follow the format below:
 
 ```./<executable> <list_size> <list_seed>```
+
