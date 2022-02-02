@@ -1,4 +1,3 @@
-
 ## rand_list.c
 
 ### Description
@@ -15,8 +14,8 @@ number equivalent to the mean of all the list's entries.
 rand_list.c can be compiled via the included Makefile using the commands
 "make all" or "make rand_list" or by the command line command:
 
-      gcc -o <executable> rand_list.c -Wall -Werror -Wextra -pedantic
+```gcc -o <executable> rand_list.c -Wall -Werror -Wextra -pedantic```
 
 To execute the produced executable file follow the format below:
 
-   ./<executable> <list_size> <list_seed>
+```./<executable> <list_size> <list_seed>```
