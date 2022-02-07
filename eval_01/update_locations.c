@@ -91,6 +91,13 @@ int main(int argc, char **argv) {
     printf("Mean time per coordinate: %fus\n", mean_time);
     printf("Final checksum is: %li\n", chksum);
   }
+  // free all allocated space before exiting
+  free(xs);
+  free(ys);
+  free(zs);
+  free(vx);
+  free(vy);
+  free(vz);
   return 0;
 }
 
