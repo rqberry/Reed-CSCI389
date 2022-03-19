@@ -1,0 +1,16 @@
+barrier, time (ns), P
+centralized, 698, 2
+dissemination, 217, 2
+MCS, 142, 2
+centralized, 1370, 4
+dissemination, 382, 4
+MCS, 0, 4
+centralized, 10844800, 8
+dissemination, 18305100, 8
+MCS, 0, 8
+centralized, 31231000, 16
+dissemination, 79099900, 16
+MCS, 0, 16
+centralized, 72582300, 32
+dissemination, 234900000, 32
+MCS, 0, 32
